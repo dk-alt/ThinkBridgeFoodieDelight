@@ -1,4 +1,4 @@
-# ThinkBridge Foodie Delight Admin app
+# ThinkBridge Foodie Delight Admin web-app
 ## Tech stack
   - React + typescript
   - Vite
@@ -11,7 +11,7 @@
 ```
   npm run install
   npm run dev
-  npm run server
+  npm run server //running api server locally
 ```
 visit http://localhost:5173/
 
