@@ -15,6 +15,12 @@
 ```
 visit http://localhost:5173/
 
+## Run the test
+
+`npm run test`
+`npm run test-coverage`
+
+visit coverage/lcov-report/src/index.html for coverage report.
 
 ## Build the application
 `npm run build`
