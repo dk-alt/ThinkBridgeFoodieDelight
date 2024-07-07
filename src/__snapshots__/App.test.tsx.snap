@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App snapshot 1`] = `
+<div>
+  <nav
+    class="navbar"
+    data-testid="navbar"
+  >
+    <h3>
+      Foodie Delight Admin
+    </h3>
+    <div
+      class="navbar-action"
+    >
+      <a
+        href="/"
+      >
+        Home
+      </a>
+      <a
+        href="/registration"
+      >
+        Restaurant Registration
+      </a>
+      <a
+        href="/dashboard"
+      >
+        Restaurent List
+      </a>
+    </div>
+  </nav>
+  <div
+    class="center-area"
+    data-testid="center-area"
+  >
+    <h1>
+      Welcome to Admin panel
+    </h1>
+    <h3>
+      Please use the Navigation to Add, View, Update Restaurants!!
+    </h3>
+    <div
+      class="carousel slide"
+    >
+      <div
+        class="carousel-indicators"
+      >
+        <button
+          aria-current="true"
+          aria-label="Slide 1"
+          class="active"
+          data-bs-target=""
+          type="button"
+        />
+        <button
+          aria-current="false"
+          aria-label="Slide 2"
+          data-bs-target=""
+          type="button"
+        />
+        <button
+          aria-current="false"
+          aria-label="Slide 3"
+          data-bs-target=""
+          type="button"
+        />
+      </div>
+      <div
+        class="carousel-inner"
+      >
+        <div
+          class="active carousel-item"
+        >
+          <img
+            src="https://picsum.photos/id/30/900/500"
+            title="First"
+          />
+          <div
+            class="carousel-caption"
+          >
+            <h3>
+              Flavors Unleashed
+            </h3>
+            <p>
+              Discover a world of culinary delights at your fingertips
+            </p>
+          </div>
+        </div>
+        <div
+          class="carousel-item"
+        >
+          <img
+            src="https://picsum.photos/id/42/900/500"
+            title="Second"
+          />
+          <div
+            class="carousel-caption"
+          >
+            <h3>
+              Gourmet Guide
+            </h3>
+            <p>
+              Your ultimate companion for exploring exquisite tastes
+            </p>
+          </div>
+        </div>
+        <div
+          class="carousel-item"
+        >
+          <img
+            src="https://picsum.photos/id/63/900/500"
+            title="Third"
+          />
+          <div
+            class="carousel-caption"
+          >
+            <h3>
+              Taste Journey
+            </h3>
+            <p>
+              From street food to fine dining, find your next craving
+            </p>
+          </div>
+        </div>
+      </div>
+      <a
+        class="carousel-control-prev"
+        href="#"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          aria-hidden="true"
+          class="carousel-control-prev-icon"
+        />
+        <span
+          class="visually-hidden"
+        >
+          Previous
+        </span>
+      </a>
+      <a
+        class="carousel-control-next"
+        href="#"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          aria-hidden="true"
+          class="carousel-control-next-icon"
+        />
+        <span
+          class="visually-hidden"
+        >
+          Next
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+`;

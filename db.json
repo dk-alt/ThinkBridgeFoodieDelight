@@ -1,0 +1,19 @@
+{
+  "restaurant-info": [
+    {
+      "id": "676dbf9d-281c-4775-83c2-7a04273479b4",
+      "name": "Chaat Chaska",
+      "category": "Cafe",
+      "cuisineType": "Indian",
+      "address": {
+        "street": "Hinjewadi Phase 1, Pune",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "zipCode": "411057"
+      },
+      "contactNumber": "9589712008",
+      "ownerName": "Kushwah",
+      "img": ""
+    }
+  ]
+}
